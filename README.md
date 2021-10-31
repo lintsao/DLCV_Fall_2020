@@ -1,5 +1,6 @@
 # DLCV_Fall_2020     
-This is a tutorial for "Deep Learning for Computer Vision (DLCV), Fall 2020"
+This is a tutorial for #"Deep Learning for Computer Vision (DLCV), Fall 2020"#
+
 The tutorial is from Prof. Yu-Chiang Frank Wang        
       
 The detail of the courses can be seen from:
